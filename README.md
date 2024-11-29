@@ -1,4 +1,5 @@
-BookRecommenderApp
+Book Recommender App
+
 It is a machine learning based project to recommend books based on similarity and ppopularity.
 I implement NLP tools (eg. word vectorizer) specially  
 
